@@ -23,8 +23,3 @@ A simple console app to manage patients, doctors, and appointments.
    - `javac -cp .:mysql-connector-j.jar src/HospitalManagementSystem/*.java`
    - `java  -cp .:mysql-connector-j.jar HospitalManagementSystem.HospitalManagementSystem`
 
-## Sample Credentials
-- None required; app is CLI based.
-
-## Screenshots
-_Add 1–2 console screenshots here._
